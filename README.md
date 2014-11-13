@@ -1,0 +1,4 @@
+EclispeTest
+===========
+
+Test for Egit
